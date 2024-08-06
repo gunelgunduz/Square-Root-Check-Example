@@ -9,7 +9,7 @@ int main(){
      if(number<0){
         cout<<"please do not enter a neqative number or zeri\n";
      }else{
-        result=sqrt(number); //suqare root
+        result=sqrt(number); //square root
         result*=result;
         if(result==number)
         cout<<"square root of "<<number<< " is an integer\n";
